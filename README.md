@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 Soy Giancarlo Morales</h1>
+<h1 align="center">Hey! 👋 Soy Giancarlo Morales</h1>
 
 <h3 align="center">Estudiante en la Universidad Politécnica de Cataluña | Apasionado por proyectos web e IA</h3>
 
