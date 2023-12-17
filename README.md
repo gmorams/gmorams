@@ -15,7 +15,7 @@
 
 ## GitHub Readme Stats 📊
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)](https://github.com/TU_USUARIO_DE_GITHUB)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmorams&show_icons=true&theme=radical)](https://github.com/gmorams)
 
 ## Readme Typing SVG ⌨️
 
