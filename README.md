@@ -12,7 +12,6 @@
 
 ## GitHub Readme Stats 📊
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmorams&show_icons=true&theme=radical)](https://github.com/gmorams)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmorams&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gmorams/github-readme-stats#gh-dark-mode-only)
 
 ## Badges 🎫
