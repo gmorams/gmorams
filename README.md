@@ -11,11 +11,11 @@
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmorams&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gmorams/github-readme-stats#gh-dark-mode-only)
 
 
-  <p align="left">
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=📚+Estudiante+en+la+UPC;💻+Desarrollador+Web+y+Apasionado+por+la+IA;🚀+Motivado+y+siempre+buscando+aprender+y+mejorar" alt="Typing SVG">
 </p>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/gmorams/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=gmorams&show_icons=true&theme=dark#gh-dark-mode-only" alt="Tus estadísticas de GitHub - Modo Oscuro">
   </a>
