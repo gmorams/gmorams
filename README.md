@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋 Soy Giancarlo Morales</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Estudiante+entusiasta;Desarrollador+Web;Apasionado+por+la+IA)](https://git.io/typing-svg)
 
 <h3 align="center">Estudiante en la Universidad Politécnica de Cataluña | Apasionado por proyectos web e IA</h3>
 
